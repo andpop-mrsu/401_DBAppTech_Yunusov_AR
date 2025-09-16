@@ -1,0 +1,21 @@
+{
+    "name": "aidar555/hangman",
+    "authors": [
+        {
+            "name": "Aidar Yunusov",
+            "email": "rinatka70@mail.ru"
+        }
+    ],
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.6"
+    },
+    "bin": [
+        "bin/hangman"
+    ],
+    "autoload": {
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    }
+}
