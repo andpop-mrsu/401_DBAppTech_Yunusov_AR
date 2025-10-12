@@ -1,5 +1,5 @@
 {
-    "name": "aidar5555/hangman",
+    "name": "aidar555/hangman",
     "authors": [
         {
             "name": "Aidar Yunusov",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Aidar555\\hangman\\": "src/"
+            "aidar555\\hangman\\": "src/"
         },
         "files": [
             "src/Controller.php",
