@@ -1,5 +1,5 @@
 {
-    "name": "aidar555/hangman-game",
+    "name": "aidar555/hangman",
     "authors": [
         {
             "name": "Aidar Yunusov",
@@ -20,7 +20,10 @@
             "src/Controller.php",
             "src/View.php",
             "src/Model/Game.php",
-            "src/Model/Dictionary.php"
+            "src/Model/Dictionary.php",
+            "src/Model/Database.php",
+            "src/Repository/GameRepository.php",
+            "src/Repository/AttemptRepository.php"
         ]
     }
 }
