@@ -1,0 +1,20 @@
+{
+  "name": "401_dbapptech_yunusov_ar",
+  "version": "1.0.0",
+  "description": "1. **Встраиваемая реляционная СУБД, консольное приложение**. Написать консольную игру на языке PHP с сохранением результатов в базе данных SQLite. Описание задачи в файле specification_01_nn.md, где nn - номер варианта (описания большинства игр взяты из книги Эла Свейгарта \"Учим Python, делая крутые игры\").\r 2. **NoSQL СУБД, клиентское веб-приложение**. Написать веб-приложение на языке JavaScript, работающее в браузере с базой данных IndexedDB (формат \"ключ-значение\").\r 3. **Реляционная СУБД, клиент-серверное веб-приложение**. Написать веб-приложение, использующее ORM и работающее с СУБД MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aidar-555/401_DBAppTech_Yunusov_AR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aidar-555/401_DBAppTech_Yunusov_AR/issues"
+  },
+  "homepage": "https://github.com/Aidar-555/401_DBAppTech_Yunusov_AR#readme"
+}
